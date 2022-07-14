@@ -1,0 +1,34 @@
+# py -m pip install -r requirements.txt --upgrade
+
+# Always 
+pip
+setuptools
+wheel
+
+# [appdirs](https://pypi.org/project/appdirs/)
+appdirs
+
+# [filetype](https://pypi.org/project/filetype/)
+filetype
+
+# [python-decouple](https://pypi.org/project/python-decouple/)
+python-decouple
+
+# [pytz](https://pypi.org/project/pytz/)
+pytz
+
+# [requests](https://docs.python-requests.org/en/latest/)
+requests
+
+# [rich](https://rich.readthedocs.io/en/stable/introduction.html)
+rich
+
+# [typer](https://typer.tiangolo.com/)
+typer
+
+# [urllib3](https://urllib3.readthedocs.io/en/stable/)
+urllib3
+
+# NATIVE
+# [pathlib](https://docs.python.org/3/library/pathlib.html)
+
