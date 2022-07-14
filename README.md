@@ -6,7 +6,7 @@ A project template for Python command line apps.
 ## Do Something
 
 ```
-examples of how to use this app
+py app.py
 ```
 
 ## VS Code venv
@@ -27,7 +27,3 @@ py -m pip install -r requirements.txt --upgrade
 * Ensure `.env` is present in `.gitignore`.
 * Update / add sensitive info in `.env`. 
 * See `configure.py` for example use of `.env`. 
-
-## Documentation
-
-
